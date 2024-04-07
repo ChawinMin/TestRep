@@ -1,0 +1,1227 @@
+﻿Log file open, 04/07/24 08:40:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22884)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CGT_255
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\cim09\Downloads\01_School\03_Spring2024\02_Classes\02_CGT255\01_Projects\01_Unreal\Map.04\CGT_255.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.3296] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 6900HS with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4dece6614e8e661f0ee8e79da0b1748e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.351765
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-840BE86E4B542CE9CEF7C3BD61B88129
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/CascadeToNiagaraConverter/Content/' mounted to '/CascadeToNiagaraConverter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (23H2) [10.0.22631.3296] (), CPU: AMD Ryzen 9 6900HS with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.04.07-12.41.00:390][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.04.07-12.41.00:391][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.04.07-12.41.00:393][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.07-12.41.00:393][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.07-12.41.00:393][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.07-12.41.00:394][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.04.07-12.41.00:416][  0]LogD3D12RHI: Aftermath initialized
+[2024.04.07-12.41.00:416][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.04.07-12.41.00:658][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2024.04.07-12.41.00:658][  0]LogD3D12RHI: Adapter has 6010MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 1 output[s]
+[2024.04.07-12.41.00:759][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2024.04.07-12.41.00:759][  0]LogD3D12RHI: Adapter has 485MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 0 output[s]
+[2024.04.07-12.41.00:771][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.04.07-12.41.00:771][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7814MB of shared system memory, 0 output[s]
+[2024.04.07-12.41.00:771][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.04.07-12.41.00:772][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.07-12.41.00:772][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.04.07-12.41.00:772][  0]LogHAL: Display: Platform has ~ 16 GB [16387653632 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.07-12.41.00:772][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.04.07-12.41.00:772][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.07-12.41.00:772][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.07-12.41.00:772][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.04.07-12.41.00:772][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Saved/Config/WindowsEditor/Editor.ini]
+[2024.04.07-12.41.00:772][  0]LogInit: Computer: PROFESSORS_PC
+[2024.04.07-12.41.00:772][  0]LogInit: User: cim09
+[2024.04.07-12.41.00:772][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.04.07-12.41.00:772][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.07-12.41.00:772][  0]LogMemory: Memory total: Physical=15.3GB (16GB approx)
+[2024.04.07-12.41.00:772][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.04.07-12.41.00:772][  0]LogMemory: Process Physical Memory: 301.15 MB used, 335.51 MB peak
+[2024.04.07-12.41.00:772][  0]LogMemory: Process Virtual Memory: 274.30 MB used, 274.30 MB peak
+[2024.04.07-12.41.00:772][  0]LogMemory: Physical Memory: 8910.73 MB used,  6717.75 MB free, 15628.48 MB total
+[2024.04.07-12.41.00:772][  0]LogMemory: Virtual Memory: 14183.64 MB used,  9124.84 MB free, 23308.48 MB total
+[2024.04.07-12.41.00:772][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.04.07-12.41.00:781][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.07-12.41.00:810][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.04.07-12.41.00:817][  0]LogInit: Using OS detected language (en-US).
+[2024.04.07-12.41.00:817][  0]LogInit: Using OS detected locale (en-US).
+[2024.04.07-12.41.00:824][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2024.04.07-12.41.00:989][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.07-12.41.01:010][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.04.07-12.41.01:010][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2024.04.07-12.41.01:010][  0]LogWindowsTextInputMethodSystem:   - Spanish (Mexico) - (Keyboard).
+[2024.04.07-12.41.01:010][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2024.04.07-12.41.01:011][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.07-12.41.01:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.07-12.41.01:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.07-12.41.01:173][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.04.07-12.41.01:180][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.04.07-12.41.01:180][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.04.07-12.41.01:297][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.04.07-12.41.01:344][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.04.07-12.41.01:351][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.04.07-12.41.01:373][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.04.07-12.41.01:389][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.04.07-12.41.01:389][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.04.07-12.41.01:437][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.07-12.41.01:437][  0]LogWindows: Attached monitors:
+[2024.04.07-12.41.01:437][  0]LogWindows:     resolution: 1920x1200, work area: (0, 0) -> (1920, 1140), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.04.07-12.41.01:437][  0]LogWindows: Found 1 attached monitors.
+[2024.04.07-12.41.01:437][  0]LogWindows: EnumDisplayDevices:
+[2024.04.07-12.41.01:437][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.04.07-12.41.01:437][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.04.07-12.41.01:438][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.04.07-12.41.01:438][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.04.07-12.41.01:439][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY5'
+[2024.04.07-12.41.01:439][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2024.04.07-12.41.01:440][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2024.04.07-12.41.01:440][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2024.04.07-12.41.01:440][  0]LogWindows:    8. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY9'
+[2024.04.07-12.41.01:440][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.04.07-12.41.01:440][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.04.07-12.41.01:440][  0]LogD3D12RHI:   Driver Version: 546.29 (internal:31.0.15.4629, unified:546.29)
+[2024.04.07-12.41.01:440][  0]LogD3D12RHI:      Driver Date: 11-29-2023
+[2024.04.07-12.41.01:440][  0]LogRHI: Texture pool is 3302 MB (70% of 4717 MB)
+[2024.04.07-12.41.01:440][  0]LogD3D12RHI: Async texture creation enabled
+[2024.04.07-12.41.01:440][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.04.07-12.41.01:452][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.04.07-12.41.01:466][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/CGT_255.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/TurnkeyReport_0.log" -log="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/TurnkeyLog_0.log" -project="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/CGT_255.uproject"  -platform=all'
+[2024.04.07-12.41.01:467][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/CGT_255.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/TurnkeyReport_0.log" -log="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/TurnkeyLog_0.log" -project="C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/CGT_255.uproject"  -platform=all" ]
+[2024.04.07-12.41.01:551][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.04.07-12.41.01:570][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.04.07-12.41.01:570][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.04.07-12.41.01:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.07-12.41.01:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.07-12.41.01:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.04.07-12.41.01:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.04.07-12.41.01:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.07-12.41.01:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.07-12.41.01:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.07-12.41.01:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.04.07-12.41.01:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.07-12.41.01:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.07-12.41.01:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.04.07-12.41.01:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.04.07-12.41.01:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.04.07-12.41.01:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.07-12.41.01:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.07-12.41.01:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.07-12.41.01:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.04.07-12.41.01:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.07-12.41.01:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.07-12.41.01:652][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.04.07-12.41.01:670][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.07-12.41.01:674][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.04.07-12.41.01:675][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.04.07-12.41.01:675][  0]LogTargetPlatformManager:   ADPCM
+[2024.04.07-12.41.01:675][  0]LogTargetPlatformManager:   PCM
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager:   BINKA
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager:   OGG
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.04.07-12.41.01:679][  0]LogTargetPlatformManager:   OPUS
+[2024.04.07-12.41.01:744][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.04.07-12.41.01:744][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.04.07-12.41.01:756][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.04.07-12.41.01:762][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.04.07-12.41.01:762][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.07-12.41.01:762][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.04.07-12.41.01:762][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.07-12.41.01:763][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.04.07-12.41.01:763][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.07-12.41.01:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.07-12.41.01:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.04.07-12.41.01:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.07-12.41.01:766][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.04.07-12.41.01:789][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.04.07-12.41.01:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.07-12.41.01:790][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.04.07-12.41.01:798][  0]LogDerivedDataCache: Speed tests for C:/Users/cim09/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.04.07-12.41.01:798][  0]LogDerivedDataCache: Display: Performance to C:/Users/cim09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=1366.79MBs, RandomWriteSpeed=155.65MBs. Assigned SpeedClass 'Local'
+[2024.04.07-12.41.01:799][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cim09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.07-12.41.01:799][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.07-12.41.01:799][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.04.07-12.41.01:804][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.04.07-12.41.01:804][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.04.07-12.41.01:805][  0]LogShaderCompilers: Guid format shader working directory is -67 characters bigger than the processId version (../../../../../../Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Intermediate/Shaders/WorkingDirectory/8648/).
+[2024.04.07-12.41.01:805][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cim09/AppData/Local/Temp/UnrealShaderWorkingDir/9143FD28487AF8BB11E86F902C43AB7C/'.
+[2024.04.07-12.41.01:805][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.07-12.41.01:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2024.04.07-12.41.03:320][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.07-12.41.03:320][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.07-12.41.03:360][  0]LogAssetRegistry: FAssetRegistry took 0.0133 seconds to start up
+[2024.04.07-12.41.03:367][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.04.07-12.41.03:574][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.04.07-12.41.03:575][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.04.07-12.41.03:880][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.07-12.41.03:880][  0]LogDeviceProfileManager: Active device profile: [00000AA361B3BEC0][00000AA355FE0000 50] WindowsEditor
+[2024.04.07-12.41.03:880][  0]LogDeviceProfileManager: Profiles: [00000AA361B38500][00000AA355FE2800 50] Windows, [00000AA361B3BEC0][00000AA355FE0000 50] WindowsEditor, [00000AA361B3B7C0][00000AA355FEA000 50] WindowsServer, [00000AA361B35080][00000AA346A57800 50] WindowsClient, [00000AA361B38DC0][00000AA355FA7800 50] IOS, [00000AA361B34D00][00000AA355FE5000 50] iPadAir2, [00000AA361B35E80][00000AA361EE0000 50] IPadPro, [00000AA361B34980][00000AA361EE2800 50] iPadAir3, [00000AA361B38180][00000AA361EE7800 50] iPadAir4, [00000AA361B3B440][00000AA361EEA000 50] iPadMini4, [00000AA361B35B00][00000AA361EEC800 50] iPadMini5, [00000AA361B355C0][00000AA355FA5000 50] iPadMini6, [00000AA361F501C0][00000AA361EF2800 50] iPhone6S, [00000AA361F50540][00000AA361EF0000 50] iPhone7, [00000AA361F508C0][00000AA361EF5000 50] iPodTouch7, [00000AA361F51340][00000AA361EFA000 50] iPhone6SPlus, [00000AA361F52300][00000AA361EFC800 50] iPhone7Plus, [00000AA361F516C0][00000AA361EE5000 50] iPhoneSE, [00000AA361F50380][00000AA361EF7800 50] iPhone8, [00000AA361F52140][00000AA361ED0000 50] iPhone8Plus, [00000AA361F53100][00000AA361ED5000 50] iPhoneX, [00000AA361F524C0][00000AA361ED7800 50] iPhoneXS, [00000AA361F50000][00000AA361EDA000 50] iPhoneXSMax, [00000AA361F54980][00000AA361EDC800 50] iPhoneXR, [00000AA361F51880][00000AA35B0AC800 50] iPhone11, [00000AA361F52680][00000AA361F30000 50] iPhone11Pro, [00000AA361F54600][00000AA361F35000 50] iPhone11ProMax, [00000AA361F53F00][00000AA361F37800 50] iPhoneSE2, [00000AA361F54D00][00000AA361F3A000 50] iPhone12Mini, [00000AA361F52F40][00000AA361F3C800 50] iPhone12, [00000AA361F51F80][00000AA361ED2800 50] iPhone12Pro, [00000AA361F53B80][00000AA361F40000 50] iPhone12ProMax, [00000AA361F55940][00000AA361F45000 50] iPhone13Mini, [00000AA361F54B40][00000AA361F47800 50] iPhone13, [00000AA361F52840][00000AA361F4A000 50] iPhone13Pro, [00000AA361F555C0][00000AA361F4C800 50] iPhone13ProMax, [00000AA361F54EC0][00000AA361F32800 50] iPadPro105, [00000AA361F55CC0][00000AA361F00000 50] iPadPro129, [00000AA361F54440][00000AA361F05000 50] iPadPro97, [00000AA361F547C0][00000AA361F07800 50] iPadPro2_129, [00000AA361F53640][00000AA361F0A000 50] iPad5, [00000AA361F56900][00000AA361F0C800 50] iPad6, [00000AA361F55B00][00000AA361F42800 50] iPad7, [00000AA361F532C0][00000AA361F10000 50] iPad8, [00000AA361F56580][00000AA361F15000 50] iPad9, [00000AA361F55E80][00000AA361F17800 50] iPadPro11, [00000AA361F56C80][00000AA361F1A000 50] iPadPro2_11, [00000AA361F55400][00000AA361F1C800 50] iPadPro3_11, [00000AA361F55780][00000AA361F02800 50] iPadPro3_129, [00000AA361F52D80][00000AA361F70000 50] iPadPro4_129, [00000AA361F578C0][00000AA361F75000 50] iPadPro5_129, [00000AA361F56AC0][00000AA361F77800 50] AppleTV, [00000AA361F50C40][00000AA361F7A000 50] AppleTV4K, [00000AA361F57540][00000AA361F7C800 50] TVOS, [00000AA361F5BEC0][00000AA361F90000 50] Mac, [00000AA361F5C240][00000AA361F92800 50] MacEditor, [00000AA361F58500][00000AA361F97800 50] MacClient, [00000AA361F51DC0][00000AA361F9A000 50] MacServer, [00000AA361F58C00][00000AA361F12800 50] Linux, [00000AA361F5B7C0][00000AA361F72800 50] LinuxEditor, [00000AA361F59BC0][00000AA361F9C800 50] LinuxArm64Editor, [00000AA361F53D40][00000AA361F80000 50] LinuxArm64, [00000AA361F52BC0][00000AA361F85000 50] LinuxClient, [00000AA361F5CB00][00000AA361F87800 50] LinuxArm64Client, [00000AA361F56740][00000AA361F8A000 50] LinuxServer, [00000AA361F51A40][00000AA361F8C800 50] LinuxArm64Server, [00000AA361F5B440][00000AA361F95000 50] Android, [00000AA361F571C0][00000AA361FA0000 50] Android_Preview_OpenGL, [00000AA361F57700][00000AA361FA5000 50] Android_Preview_Vulkan, [00000AA361F50FC0][00000AA361FA7800 50] Android_Low, [00000AA361F58180][00000AA361FAA000 50] Android_Mid, [00000AA361F50A80][00000AA361FAC800 50] Android_High, [00000AA361F5C780][00000AA361F82800 50] Android_Default, [00000AA361F5AF00][00000AA361FB0000 50] Android_Adreno4xx, [00000AA361F56200][00000AA361FB5000 50] Android_Adreno5xx_Low, [00000AA361F57C40][00000AA361FB7800 50] Android_Adreno5xx, [00000AA361F56E40][00000AA361FBA000 50] Android_Adreno6xx, [00000AA361F58F80][00000AA361FBC800 50] Android_Adreno6xx_Vulkan, [00000AA361F59680][00000AA361FA2800 50] Android_Adreno7xx, [00000AA361F57FC0][00000AA361FC0000 50] Android_Adreno7xx_Vulkan, [00000AA361F58A40][00000AA361FC5000 50] Android_Mali_T6xx, [00000AA361F59840][00000AA361FC7800 50] Android_Mali_T7xx, [00000AA361F59140][00000AA361FCA000 50] Android_Mali_T8xx, [00000AA361F59D80][00000AA361FCC800 50] Android_Mali_G71, [00000AA361F50700][00000AA361FB2800 50] Android_Mali_G72, [00000AA361F5BB40][00000AA361FD0000 50] Android_Mali_G72_Vulkan, [00000AA361F5BD00][00000AA361FD5000 50] Android_Mali_G76, [00000AA361F53480][00000AA361FD7800 50] Android_Mali_G76_Vulkan, [00000AA361F586C0][00000AA361FDA000 50] Android_Mali_G77, [00000AA361F54280][00000AA361FDC800 50] Android_Mali_G77_Vulkan, [00000AA361F57E00][00000AA361FC2800 50] Android_Mali_G78, [00000AA361F5A480][00000AA361FE0000 50] Android_Mali_G78_Vulkan, [00000AA361F594C0][00000AA361FE5000 50] Android_Mali_G710, [00000AA361F53800][00000AA361FE7800 50] Android_Mali_G710_Vulkan, [00000AA361F58340][00000AA361FEA000 50] Android_Xclipse_920, [00000AA361F58880][00000AA361FEC800 50] Android_Xclipse_920_Vulkan, [00000AA361F56040][00000AA361FD2800 50] Android_Vulkan_SM5, [00000AA361F59A00][00000AA361FF0000 50] Android_PowerVR_G6xxx, [00000AA361F50E00][00000AA361FF5000 50] Android_PowerVR_GT7xxx, [00000AA361F5A2C0][00000AA361FF7800 50] Android_PowerVR_GE8xxx, [00000AA361F5AB80][00000AA361FFA000 50] Android_PowerVR_GM9xxx, [00000AA361F51C00][00000AA361FFC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000AA361F51180][00000AA361FE2800 50] Android_TegraK1, [00000AA361F5D740][00000AA362810000 50] Android_Unknown_Vulkan, [00000AA361F5A800][00000AA362815000 50] Oculus_Quest, [00000AA361F55080][00000AA362817800 50] Oculus_Quest2, [00000AA361F5D3C0][00000AA36281A000 50] HoloLens, 
+[2024.04.07-12.41.03:880][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.04.07-12.41.03:907][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.04.07-12.41.04:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.07-12.41.04:136][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.07-12.41.04:136][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.07-12.41.04:136][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.07-12.41.04:136][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.07-12.41.04:155][  0]LogNetVersion: CGT_255 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3874984337)
+[2024.04.07-12.41.04:289][  0]LogSlate: Border
+[2024.04.07-12.41.04:289][  0]LogSlate: BreadcrumbButton
+[2024.04.07-12.41.04:289][  0]LogSlate: Default
+[2024.04.07-12.41.04:289][  0]LogSlate: Icons.Save
+[2024.04.07-12.41.04:289][  0]LogSlate: Icons.Toolbar.Settings
+[2024.04.07-12.41.04:289][  0]LogSlate: ListView
+[2024.04.07-12.41.04:289][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.04.07-12.41.04:289][  0]LogSlate: SoftwareCursor_Grab
+[2024.04.07-12.41.04:289][  0]LogSlate: TableView.DarkRow
+[2024.04.07-12.41.04:289][  0]LogSlate: TableView.Row
+[2024.04.07-12.41.04:289][  0]LogSlate: TreeView
+[2024.04.07-12.41.04:469][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.04:497][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.04:497][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.04:619][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.04.07-12.41.04:619][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2024.04.07-12.41.04:619][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.07-12.41.05:091][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 15E59D0243367AA6B589009CB74ED492 | Instance: 017F996D4C449812BE1B1AAA4445D342 (PROFESSORS_PC-8648).
+[2024.04.07-12.41.05:210][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.07-12.41.05:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.07-12.41.05:242][  0]LogPython: Using Python 3.9.7
+[2024.04.07-12.41.06:762][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.06:768][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.06:783][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.06:794][  0]LogUProjectInfo: Found projects:
+[2024.04.07-12.41.06:841][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.07-12.41.06:917][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.07-12.41.06:956][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.07-12.41.06:956][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.07-12.41.07:154][  0]LogCollectionManager: Loaded 0 collections in 0.001965 seconds
+[2024.04.07-12.41.07:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Saved/Collections/' took 0.00s
+[2024.04.07-12.41.07:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Content/Developers/cim09/Collections/' took 0.00s
+[2024.04.07-12.41.07:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Content/Collections/' took 0.00s
+[2024.04.07-12.41.07:602][  0]LogClass: Display: BoolProperty FCreateScriptContextArgs::bScriptVersionSet is not initialized properly. Module:CascadeToNiagaraConverter File:Public/NiagaraStackGraphUtilitiesAdapterLibrary.h
+[2024.04.07-12.41.07:603][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2024.04.07-12.41.07:606][  0]LogEngine: Initializing Engine...
+[2024.04.07-12.41.07:623][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.04.07-12.41.07:626][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.07-12.41.07:941][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.07-12.41.07:942][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.07-12.41.07:956][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-12.41.07:990][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.07-12.41.07:991][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-12.41.08:023][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.07-12.41.08:023][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-12.41.08:024][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-12.41.08:024][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-12.41.08:024][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-12.41.08:037][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-12.41.08:380][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.07-12.41.08:381][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-12.41.08:384][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-12.41.08:384][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-12.41.08:385][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.04.07-12.41.08:385][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.07-12.41.08:386][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.07-12.41.08:386][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.04.07-12.41.08:386][  0]LogInit: FAudioDevice initialized.
+[2024.04.07-12.41.08:387][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.07-12.41.08:387][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.07-12.41.08:387][  0]LogInit: Texture streaming: Enabled
+[2024.04.07-12.41.08:439][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.04.07-12.41.08:452][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.07-12.41.08:482][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.04.07-12.41.08:494][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.04.07-12.41.08:494][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.04.07-12.41.09:600][  0]LogLiveCoding: Display: First instance in process group "UE_CGT_255_0x75e8b25a", spawning console
+[2024.04.07-12.41.09:600][  0]LogLiveCoding: Display: Waiting for server
+[2024.04.07-12.41.09:600][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.04.07-12.41.09:632][  0]LogInit: Transaction tracking system initialized
+[2024.04.07-12.41.09:727][  0]BlueprintLog: New page: Editor Load
+[2024.04.07-12.41.09:997][  0]LocalizationService: Localization service is disabled
+[2024.04.07-12.41.10:069][  0]TimingProfiler: Initialize
+[2024.04.07-12.41.10:069][  0]TimingProfiler: OnSessionChanged
+[2024.04.07-12.41.10:069][  0]LoadingProfiler: Initialize
+[2024.04.07-12.41.10:069][  0]LoadingProfiler: OnSessionChanged
+[2024.04.07-12.41.10:069][  0]NetworkingProfiler: Initialize
+[2024.04.07-12.41.10:069][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.07-12.41.10:069][  0]MemoryProfiler: Initialize
+[2024.04.07-12.41.10:069][  0]MemoryProfiler: OnSessionChanged
+[2024.04.07-12.41.10:745][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cim09/Downloads/01_School/03_Spring2024/02_Classes/02_CGT255/01_Projects/01_Unreal/Map.04/Content/' took 0.06s
+[2024.04.07-12.41.10:745][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.07-12.41.11:051][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.07-12.41.11:054][  0]SourceControl: Source control is disabled
+[2024.04.07-12.41.11:054][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.261
+[2024.04.07-12.41.11:055][  0]LightingResults: New page: Lighting Build
+[2024.04.07-12.41.11:067][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-12.41.11:067][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-12.41.11:067][  0]MapCheck: New page: Map Check
+[2024.04.07-12.41.11:068][  0]LightingResults: New page: Lighting Build
+[2024.04.07-12.41.11:073][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.07-12.41.11:077][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.07-12.41.11:335][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.04.07-12.41.11:342][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-12.41.11:342][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.04.07-12.41.11:342][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-12.41.11:343][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2024.04.07-12.41.11:505][  0]LogWorldPartition: Display: WorldPartition initialize took 162 ms
+[2024.04.07-12.41.11:510][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.07-12.41.11:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.07-12.41.11:520][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.07-12.41.11:521][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2024.04.07-12.41.11:521][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.466
+[2024.04.07-12.41.11:537][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.744
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.07-12.41.11:537][  0]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.41.11:647][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.04.07-12.41.11:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-12.41.11:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-12.41.11:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-12.41.11:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-12.41.11:710][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:710][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:711][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:711][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:712][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:712][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:713][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:713][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:713][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:713][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:714][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:714][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:714][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:714][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:715][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.07-12.41.11:715][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.07-12.41.11:715][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.04.07-12.41.12:143][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.07-12.41.12:146][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.07-12.41.12:149][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.07-12.41.12:151][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.07-12.41.12:152][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.07-12.41.12:174][  0]LogViewport: Scene viewport resized to 1013x926, mode Windowed.
+[2024.04.07-12.41.12:751][  0]LogStall: Startup...
+[2024.04.07-12.41.12:753][  0]LogStall: Startup complete.
+[2024.04.07-12.41.12:776][  0]LogLoad: (Engine Initialization) Total time: 13.98 seconds
+[2024.04.07-12.41.12:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.07-12.41.12:850][  0]LogAssetRegistry: Asset discovery search completed in 9.4918 seconds
+[2024.04.07-12.41.12:856][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.04.07-12.41.12:858][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.07-12.41.26:540][728]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.04.07-12.41.30:104][909]LogSlate: Window 'Bridge' being destroyed
+[2024.04.07-12.42.52:565][850]LogSlate: Window 'Login' being destroyed
+[2024.04.07-12.43.02:695][458]LogDerivedDataCache: C:/Users/cim09/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.896 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.07-12.43.30:296][103]LogStaticMesh: Display: Building static mesh S_Banquet_Lamb_Ribs_wktqbjzs_lod5...
+[2024.04.07-12.43.30:307][103]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Banquet_Lamb_Ribs_wktqbjzs/T_BanquetLambRibs_wktqbjzs_1K_DpR.T_BanquetLambRibs_wktqbjzs_1K_DpR (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.30:356][104]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Banquet_Lamb_Ribs_wktqbjzs/T_Banquet_Lamb_Ribs_wktqbjzs_1K_N.T_Banquet_Lamb_Ribs_wktqbjzs_1K_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.30:356][104]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Banquet_Lamb_Ribs_wktqbjzs/S_Banquet_Lamb_Ribs_wktqbjzs_lod5.S_Banquet_Lamb_Ribs_wktqbjzs_lod5
+[2024.04.07-12.43.30:368][104]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Banquet_Lamb_Ribs_wktqbjzs/T_Banquet_Lamb_Ribs_wktqbjzs_1K_D.T_Banquet_Lamb_Ribs_wktqbjzs_1K_D (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.36:577][461]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.07-12.43.53:764][449]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.04.07-12.43.53:893][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_05_DirLen.T_EuropeanHornbeam_Seedling_05_DirLen (BGRA8, 3X2 X1X1) (Required Memory Estimate: 0.000114 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.53:894][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_05_PosParent.T_EuropeanHornbeam_Seedling_05_PosParent (RGBA16F, 3X2 X1X1) (Required Memory Estimate: 0.000229 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.53:894][449]LogMaterial: Display: Missing cached shadermap for MA_Foliage in PCD3D_SM5, Default, SM5 (DDC key hash: 512A4D9F1DD9BF28613CC4F1DFF6F83583531EA0), compiling. 
+[2024.04.07-12.43.54:085][449]LogTexture: Display: Building textures: /Game/MSPresets/MS_Foliage_Material/MaterialFunctions/Textures/T_WindNoise.T_WindNoise (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.54:085][449]LogMaterial: Display: Missing cached shadermap for MAI_EuropeanHornbeam_Seedling_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 77CD1D8300F4F58F43C043CD6BBAE8FD10ECE503), compiling. 
+[2024.04.07-12.43.54:185][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_05_Tileable in PCD3D_SM5, Default, SM5 (DDC key hash: 3825E66D1116CE98F926BB01988E28B3166F7FA6), compiling. 
+[2024.04.07-12.43.54:313][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_05_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: C6B11FCB7379324ECEC65A32FF52C0D846B3962D), compiling. 
+[2024.04.07-12.43.54:469][449]LogMaterial: Display: Missing cached shadermap for MAI_EuropeanHornbeam_Seedling_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 9860BDC8FE32EA37744236D35D6F5D5B66686FF2), compiling. 
+[2024.04.07-12.43.54:620][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_04_Tileable in PCD3D_SM5, Default, SM5 (DDC key hash: 199A4EB0881A4C4C98B25CD66E4B2D3A26A3C6AD), compiling. 
+[2024.04.07-12.43.54:742][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_04_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: E01545F8654FDD78EF81834A7F0261EF1B4A28AE), compiling. 
+[2024.04.07-12.43.54:899][449]LogMaterial: Display: Missing cached shadermap for MAI_EuropeanHornbeam_Seedling_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C5B6ED2853CE7CBD5660DD651FBC85C5F9163F5), compiling. 
+[2024.04.07-12.43.55:023][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_01_Tileable in PCD3D_SM5, Default, SM5 (DDC key hash: 92C3BDB9196041571FE22DD8E44D843892D69DE1), compiling. 
+[2024.04.07-12.43.55:141][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Seedling_01_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: 27D03E229D45E49BAE07C4BD0EEF5FFF7DF2353D), compiling. 
+[2024.04.07-12.43.55:529][449]LogMaterial: Display: Missing cached shadermap for MA_Impostor_SimpleOffset_MS in PCD3D_SM5, Default, SM5 (DDC key hash: 24E7D787AD709B8C2F6FD7FC39F57F76CA5AF885), compiling. 
+[2024.04.07-12.43.55:759][449]LogMaterial: Display: Missing cached shadermap for MAI_Impostor_EuropeanHornbeam in PCD3D_SM5, Default, SM5 (DDC key hash: 8EC0BDE60CA9D990567AB77E59E607D37F314386), compiling. 
+[2024.04.07-12.43.55:937][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Forest_09_Decoration in PCD3D_SM5, Default, SM5 (DDC key hash: 5DDA7883D38FBCE7AB87555B38B2C8979897A3C7), compiling. 
+[2024.04.07-12.43.56:109][449]LogMaterial: Display: Missing cached shadermap for MAI_EuropeanHornbeam_Forest_08 in PCD3D_SM5, Default, SM5 (DDC key hash: FCB384FC618247A3D66B70ED8B1335321E8D3C5E), compiling. 
+[2024.04.07-12.43.56:242][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Forest_08_Decoration in PCD3D_SM5, Default, SM5 (DDC key hash: 41AC3EA04DE0EDEC966C69DC9C462F9EA1E4E702), compiling. 
+[2024.04.07-12.43.56:381][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Forest_08_Tileable in PCD3D_SM5, Default, SM5 (DDC key hash: D8EC0BF8333C0C8F319C23D26713998EF15F83D5), compiling. 
+[2024.04.07-12.43.56:519][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Forest_08_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: 4147C2F1C60C41E99B1D7E5BAFD194F70C34F869), compiling. 
+[2024.04.07-12.43.56:711][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Trunk_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 1679EB30E4024DDA53FB9F1744AACA2AAB16531A), compiling. 
+[2024.04.07-12.43.56:887][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Albedo.T_EuropeanHornbeam_Tileable_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.56:887][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Trunk_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F51C5FF17A377C5715EC68D401674A15CBC4386), compiling. 
+[2024.04.07-12.43.57:169][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Forest_03_Trunk in PCD3D_SM5, Default, SM5 (DDC key hash: 68CD041A713B9FA030CF0FE6BF8B29D6171C0220), compiling. 
+[2024.04.07-12.43.57:509][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Mask.T_EuropeanHornbeam_Tileable_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.43.57:509][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Tileable in PCD3D_SM5, Default, SM5 (DDC key hash: A57724243F6D8E69781080679D1B62BDE0C76142), compiling. 
+[2024.04.07-12.43.57:647][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_TwoSided in PCD3D_SM5, Default, SM5 (DDC key hash: 0FC31A16DA40F437B10FB2D798CEEEB2E747E13C), compiling. 
+[2024.04.07-12.43.57:837][449]LogMaterial: Display: Missing cached shadermap for MI_EuropeanHornbeam_Decoration in PCD3D_SM5, Default, SM5 (DDC key hash: C85A72351EF2621EAEDE64609F1070A3ACB062BC), compiling. 
+[2024.04.07-12.43.58:281][449]LogMaterial: Display: Missing cached shadermap for MA_UI_Element in PCD3D_SM5, Default, SM5 (DDC key hash: 3A79D24A8963A2D0051957E6B14745E265607F29), compiling. 
+[2024.04.07-12.43.58:389][449]LogMaterial: Display: Missing cached shadermap for M_FloorGrid_Master in PCD3D_SM5, Default, SM5 (DDC key hash: CEC89F1749380216BD108C561802BAC6E8317278), compiling. 
+[2024.04.07-12.43.58:553][449]LogObjectTools: Deleting 1 worlds: /Game/EuropeanHornbeam/Maps/EuropeanHornbeam_Asset_Zoo.EuropeanHornbeam_Asset_Zoo
+[2024.04.07-12.43.58:553][449]LogObjectTools: Currently 3 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2024.04.07-12.43.58:639][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.07-12.43.59:994][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Tileable/T_EuropeanHornbeam_Tileable_Normal.T_EuropeanHornbeam_Tileable_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_05_PP...
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Built static mesh [0.04s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_05_PP.SM_EuropeanHornbeam_Seedling_05_PP
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_04_PP...
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_03_PP...
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_02_PP...
+[2024.04.07-12.44.02:800][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_01_PP...
+[2024.04.07-12.44.02:904][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_08_PP...
+[2024.04.07-12.44.02:904][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_07_PP...
+[2024.04.07-12.44.02:904][449]LogStaticMesh: Built static mesh [0.09s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_03_PP.SM_EuropeanHornbeam_Seedling_03_PP
+[2024.04.07-12.44.02:904][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_06_PP...
+[2024.04.07-12.44.03:012][449]LogStaticMesh: Built static mesh [0.18s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_04_PP.SM_EuropeanHornbeam_Seedling_04_PP
+[2024.04.07-12.44.03:012][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_05_PP...
+[2024.04.07-12.44.03:012][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_04_PP...
+[2024.04.07-12.44.03:221][449]LogStaticMesh: Built static mesh [0.40s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_02_PP.SM_EuropeanHornbeam_Seedling_02_PP
+[2024.04.07-12.44.03:352][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_03_PP...
+[2024.04.07-12.44.03:481][449]LogStaticMesh: Built static mesh [0.61s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_08_PP.SM_EuropeanHornbeam_Sapling_08_PP
+[2024.04.07-12.44.03:481][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_02_PP...
+[2024.04.07-12.44.03:593][449]LogStaticMesh: Built static mesh [0.74s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Seedling_01_PP.SM_EuropeanHornbeam_Seedling_01_PP
+[2024.04.07-12.44.03:593][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_01_PP...
+[2024.04.07-12.44.03:830][449]LogStaticMesh: Built static mesh [0.96s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_07_PP.SM_EuropeanHornbeam_Sapling_07_PP
+[2024.04.07-12.44.03:938][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_10_PP...
+[2024.04.07-12.44.04:285][449]LogStaticMesh: Built static mesh [1.26s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_04_PP.SM_EuropeanHornbeam_Sapling_04_PP
+[2024.04.07-12.44.04:397][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_09_PP...
+[2024.04.07-12.44.04:736][449]LogStaticMesh: Built static mesh [1.79s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_06_PP.SM_EuropeanHornbeam_Sapling_06_PP
+[2024.04.07-12.44.04:842][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_08_PP...
+[2024.04.07-12.44.04:950][449]LogStaticMesh: Built static mesh [1.46s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_02_PP.SM_EuropeanHornbeam_Sapling_02_PP
+[2024.04.07-12.44.05:060][449]LogStaticMesh: Built static mesh [2.05s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_05_PP.SM_EuropeanHornbeam_Sapling_05_PP
+[2024.04.07-12.44.06:524][449]LogStaticMesh: Built static mesh [3.29s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_03_PP.SM_EuropeanHornbeam_Sapling_03_PP
+[2024.04.07-12.44.07:224][449]LogStaticMesh: Built static mesh [3.63s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Sapling_01_PP.SM_EuropeanHornbeam_Sapling_01_PP
+[2024.04.07-12.44.07:698][449]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.07-12.44.07:767][449]LogWorld: UWorld::CleanupWorld for EuropeanHornbeam_Asset_Zoo, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-12.44.07:769][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-12.44.07:906][449]LogTexture: Display: Waiting for textures to be ready 4/127 (/Game/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Albedo) ...
+[2024.04.07-12.44.08:891][449]LogStaticMesh: Built static mesh [4.54s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_10_PP.SM_EuropeanHornbeam_Forest_10_PP
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: Total job queries 1625, among them cache hits 0 (0.00%)
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 20 distinct outputs (95.24%)
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: Shaders Compiled: 1625
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: Jobs assigned 96, completed 21 (21.88%)
+[2024.04.07-12.44.13:560][449]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Time job spent in pending queue: average 4.38 s, longest 19.38 s
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Job execution time: average 18.66 s, max 19.41 s
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Job life time (pending + execution): average 18.72 s, max 19.48
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.48 s
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 8.60 jobs/batch
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Average processing rate: 1.08 jobs/sec
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 8.38 sec, max 8.38 sec, min 8.38 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled    1 times, average 4.42 sec, max 4.42 sec, min 4.42 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 4.28 sec, max 4.28 sec, min 4.28 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    1 times, average 3.61 sec, max 3.61 sec, min 3.61 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 3.58 sec, max 3.58 sec, min 3.58 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.15% of total time (compiled    1 times, average 8.38 sec, max 8.38 sec, min 8.38 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy - 10.09% of total time (compiled    1 times, average 4.42 sec, max 4.42 sec, min 4.42 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.79% of total time (compiled    1 times, average 4.28 sec, max 4.28 sec, min 4.28 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight - 8.24% of total time (compiled    1 times, average 3.61 sec, max 3.61 sec, min 3.61 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.18% of total time (compiled    1 times, average 3.58 sec, max 3.58 sec, min 3.58 sec)
+[2024.04.07-12.44.13:561][449]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.44.13:968][449]LogStaticMesh: Built static mesh [9.55s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_09_PP.SM_EuropeanHornbeam_Forest_09_PP
+[2024.04.07-12.44.16:283][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Albedo.T_EuropeanHornbeam_TwoSided_Summer_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.17:603][449]LogTexture: Display: Waiting for textures to be ready 5/127 (/Game/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Mask) ...
+[2024.04.07-12.44.20:506][449]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2024.04.07-12.44.20:507][449]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049370s
+[2024.04.07-12.44.29:540][449]LogStaticMesh: Built static mesh [24.55s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_08_PP.SM_EuropeanHornbeam_Forest_08_PP
+[2024.04.07-12.44.34:158][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Normal.T_EuropeanHornbeam_TwoSided_Summer_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.34:159][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Summer/T_EuropeanHornbeam_TwoSided_Summer_Mask.T_EuropeanHornbeam_TwoSided_Summer_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.36:210][449]LogTexture: Display: Waiting for textures to be ready 7/127 (/Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Albedo) ...
+[2024.04.07-12.44.37:108][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Albedo.T_EuropeanHornbeam_TwoSided_Winter_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.37:952][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Mask.T_EuropeanHornbeam_TwoSided_Winter_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_04_DirLen.T_EuropeanHornbeam_Seedling_04_DirLen (BGRA8, 5X4 X1X1) (Required Memory Estimate: 0.000381 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_04_PosParent.T_EuropeanHornbeam_Seedling_04_PosParent (RGBA16F, 5X4 X1X1) (Required Memory Estimate: 0.000763 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_03_PosParent.T_EuropeanHornbeam_Seedling_03_PosParent (RGBA16F, 8X2 X1X1) (Required Memory Estimate: 0.00061 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_03_DirLen.T_EuropeanHornbeam_Seedling_03_DirLen (BGRA8, 8X2 X1X1) (Required Memory Estimate: 0.000305 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_02_DirLen.T_EuropeanHornbeam_Seedling_02_DirLen (BGRA8, 15X3 X1X1) (Required Memory Estimate: 0.000858 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_02_PosParent.T_EuropeanHornbeam_Seedling_02_PosParent (RGBA16F, 15X3 X1X1) (Required Memory Estimate: 0.001717 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_01_DirLen.T_EuropeanHornbeam_Seedling_01_DirLen (BGRA8, 15X3 X1X1) (Required Memory Estimate: 0.000858 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_08_DirLen.T_EuropeanHornbeam_Sapling_08_DirLen (BGRA8, 44X2 X1X1) (Required Memory Estimate: 0.001678 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Seedling/T_EuropeanHornbeam_Seedling_01_PosParent.T_EuropeanHornbeam_Seedling_01_PosParent (RGBA16F, 15X3 X1X1) (Required Memory Estimate: 0.001717 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_08_PosParent.T_EuropeanHornbeam_Sapling_08_PosParent (RGBA16F, 44X2 X1X1) (Required Memory Estimate: 0.003357 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_07_DirLen.T_EuropeanHornbeam_Sapling_07_DirLen (BGRA8, 97X2 X1X1) (Required Memory Estimate: 0.0037 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_07_PosParent.T_EuropeanHornbeam_Sapling_07_PosParent (RGBA16F, 97X2 X1X1) (Required Memory Estimate: 0.007401 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_06_PosParent.T_EuropeanHornbeam_Sapling_06_PosParent (RGBA16F, 36X2 X1X1) (Required Memory Estimate: 0.002747 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_06_DirLen.T_EuropeanHornbeam_Sapling_06_DirLen (BGRA8, 36X2 X1X1) (Required Memory Estimate: 0.001373 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_05_DirLen.T_EuropeanHornbeam_Sapling_05_DirLen (BGRA8, 27X3 X1X1) (Required Memory Estimate: 0.001545 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_05_PosParent.T_EuropeanHornbeam_Sapling_05_PosParent (RGBA16F, 27X3 X1X1) (Required Memory Estimate: 0.00309 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_04_DirLen.T_EuropeanHornbeam_Sapling_04_DirLen (BGRA8, 54X2 X1X1) (Required Memory Estimate: 0.00206 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_03_DirLen.T_EuropeanHornbeam_Sapling_03_DirLen (BGRA8, 13X12 X1X1) (Required Memory Estimate: 0.002975 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_02_DirLen.T_EuropeanHornbeam_Sapling_02_DirLen (BGRA8, 31X3 X1X1) (Required Memory Estimate: 0.001774 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_04_PosParent.T_EuropeanHornbeam_Sapling_04_PosParent (RGBA16F, 54X2 X1X1) (Required Memory Estimate: 0.00412 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_03_PosParent.T_EuropeanHornbeam_Sapling_03_PosParent (RGBA16F, 13X12 X1X1) (Required Memory Estimate: 0.005951 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_01_DirLen.T_EuropeanHornbeam_Sapling_01_DirLen (BGRA8, 95X3 X1X1) (Required Memory Estimate: 0.005436 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_02_PosParent.T_EuropeanHornbeam_Sapling_02_PosParent (RGBA16F, 31X3 X1X1) (Required Memory Estimate: 0.003548 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Sapling/T_EuropeanHornbeam_Sapling_01_PosParent.T_EuropeanHornbeam_Sapling_01_PosParent (RGBA16F, 95X3 X1X1) (Required Memory Estimate: 0.010872 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_10_DirLen.T_EuropeanHornbeam_Forest_10_DirLen (BGRA8, 84X2 X1X1) (Required Memory Estimate: 0.003204 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_10_PosParent.T_EuropeanHornbeam_Forest_10_PosParent (RGBA16F, 84X2 X1X1) (Required Memory Estimate: 0.006409 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.39:351][449]LogTexture: Display: Waiting for textures to be ready 8/127 (/Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Mask) ...
+[2024.04.07-12.44.39:488][449]LogTexture: Display: Waiting for textures to be ready 9/127 (/Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Normal) ...
+[2024.04.07-12.44.40:889][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/TwoSided/Winter/T_EuropeanHornbeam_TwoSided_Winter_Normal.T_EuropeanHornbeam_TwoSided_Winter_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.41:803][449]LogTexture: Display: Waiting for textures to be ready 36/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_BaseColor_Forest_09_Summer) ...
+[2024.04.07-12.44.44:038][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_BaseColor_Forest_09_Summer.T_Impostor_BaseColor_Forest_09_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.44:806][449]LogTexture: Display: Waiting for textures to be ready 37/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_BaseColor_Forest_09_Winter) ...
+[2024.04.07-12.44.46:772][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_BaseColor_Forest_09_Winter.T_Impostor_BaseColor_Forest_09_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.47:449][449]LogTexture: Display: Waiting for textures to be ready 38/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_Normal_Forest_09_Summer) ...
+[2024.04.07-12.44.49:498][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_Normal_Forest_09_Summer.T_Impostor_Normal_Forest_09_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.50:154][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_09_DirLen.T_EuropeanHornbeam_Forest_09_DirLen (BGRA8, 187X3 X1X1) (Required Memory Estimate: 0.0107 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.50:154][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_09_PosParent.T_EuropeanHornbeam_Forest_09_PosParent (RGBA16F, 187X3 X1X1) (Required Memory Estimate: 0.0214 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.50:154][449]LogTexture: Display: Waiting for textures to be ready 39/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_Normal_Forest_09_Winter) ...
+[2024.04.07-12.44.51:806][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_09/T_Impostor_Normal_Forest_09_Winter.T_Impostor_Normal_Forest_09_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.52:449][449]LogTexture: Display: Waiting for textures to be ready 42/127 (/Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Albedo) ...
+[2024.04.07-12.44.54:768][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Albedo.T_EuropeanHornbeam_Decoration_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.54:984][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Mask.T_EuropeanHornbeam_Decoration_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.56:250][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Normal.T_EuropeanHornbeam_Decoration_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.44.58:889][449]LogTexture: Display: Waiting for textures to be ready 43/127 (/Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Mask) ...
+[2024.04.07-12.44.58:998][449]LogTexture: Display: Waiting for textures to be ready 44/127 (/Game/EuropeanHornbeam/Textures/Decoration/T_EuropeanHornbeam_Decoration_Normal) ...
+[2024.04.07-12.44.59:070][449]LogTexture: Display: Waiting for textures to be ready 45/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_BaseColor_Forest_08_Summer) ...
+[2024.04.07-12.45.01:293][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_BaseColor_Forest_08_Summer.T_Impostor_BaseColor_Forest_08_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.02:253][449]LogTexture: Display: Waiting for textures to be ready 46/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_BaseColor_Forest_08_Winter) ...
+[2024.04.07-12.45.04:227][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_BaseColor_Forest_08_Winter.T_Impostor_BaseColor_Forest_08_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.04:438][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_Normal_Forest_08_Summer.T_Impostor_Normal_Forest_08_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.05:533][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_08_DirLen.T_EuropeanHornbeam_Forest_08_DirLen (BGRA8, 31X19 X1X1) (Required Memory Estimate: 0.011234 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.05:533][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_08_PosParent.T_EuropeanHornbeam_Forest_08_PosParent (RGBA16F, 31X19 X1X1) (Required Memory Estimate: 0.022469 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.05:533][449]LogTexture: Display: Waiting for textures to be ready 48/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_Normal_Forest_08_Winter) ...
+[2024.04.07-12.45.07:393][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_08/T_Impostor_Normal_Forest_08_Winter.T_Impostor_Normal_Forest_08_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.07:935][449]LogTexture: Display: Waiting for textures to be ready 51/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_BaseColor_Forest_07_Summer) ...
+[2024.04.07-12.45.10:106][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_BaseColor_Forest_07_Winter.T_Impostor_BaseColor_Forest_07_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.10:319][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_BaseColor_Forest_07_Summer.T_Impostor_BaseColor_Forest_07_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.11:354][449]LogTexture: Display: Waiting for textures to be ready 53/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Summer) ...
+[2024.04.07-12.45.13:264][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Summer.T_Impostor_Normal_Forest_07_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.13:995][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_07_DirLen.T_EuropeanHornbeam_Forest_07_DirLen (BGRA8, 37X35 X1X1) (Required Memory Estimate: 0.0247 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.13:995][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_07_PosParent.T_EuropeanHornbeam_Forest_07_PosParent (RGBA16F, 37X35 X1X1) (Required Memory Estimate: 0.0494 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.13:995][449]LogTexture: Display: Waiting for textures to be ready 54/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Winter) ...
+[2024.04.07-12.45.15:763][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_07/T_Impostor_Normal_Forest_07_Winter.T_Impostor_Normal_Forest_07_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.16:393][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Albedo.T_EuropeanHornbeam_Trunk_02_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.16:812][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Mask.T_EuropeanHornbeam_Trunk_02_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.17:200][449]LogTexture: Display: Waiting for textures to be ready 57/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Albedo) ...
+[2024.04.07-12.45.19:313][449]LogTexture: Display: Waiting for textures to be ready 59/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Normal) ...
+[2024.04.07-12.45.21:021][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_BaseColor_Forest_06_Summer.T_Impostor_BaseColor_Forest_06_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.22:697][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_02/T_EuropeanHornbeam_Trunk_02_Normal.T_EuropeanHornbeam_Trunk_02_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.23:743][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_BaseColor_Forest_06_Winter.T_Impostor_BaseColor_Forest_06_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.23:999][449]LogTexture: Display: Waiting for textures to be ready 61/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_BaseColor_Forest_06_Winter) ...
+[2024.04.07-12.45.24:672][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_06_DirLen.T_EuropeanHornbeam_Forest_06_DirLen (BGRA8, 252X2 X1X1) (Required Memory Estimate: 0.009613 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.24:672][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_06_PosParent.T_EuropeanHornbeam_Forest_06_PosParent (RGBA16F, 252X2 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.24:672][449]LogTexture: Display: Waiting for textures to be ready 62/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_Normal_Forest_06_Summer) ...
+[2024.04.07-12.45.26:254][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_Normal_Forest_06_Winter.T_Impostor_Normal_Forest_06_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.26:472][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_06/T_Impostor_Normal_Forest_06_Summer.T_Impostor_Normal_Forest_06_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.27:332][449]LogTexture: Display: Waiting for textures to be ready 66/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Albedo) ...
+[2024.04.07-12.45.29:413][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Albedo.T_EuropeanHornbeam_Trunk_03_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.29:621][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Mask.T_EuropeanHornbeam_Trunk_03_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.31:094][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Normal.T_EuropeanHornbeam_Trunk_03_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.32:519][449]LogTexture: Display: Waiting for textures to be ready 67/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Mask) ...
+[2024.04.07-12.45.32:627][449]LogTexture: Display: Waiting for textures to be ready 68/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_03/T_EuropeanHornbeam_Trunk_03_Normal) ...
+[2024.04.07-12.45.33:539][449]LogTexture: Display: Waiting for textures to be ready 69/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_BaseColor_Forest_05_Summer) ...
+[2024.04.07-12.45.34:441][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_BaseColor_Forest_05_Summer.T_Impostor_BaseColor_Forest_05_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.35:307][449]LogTexture: Display: Waiting for textures to be ready 70/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_BaseColor_Forest_05_Winter) ...
+[2024.04.07-12.45.36:961][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_BaseColor_Forest_05_Winter.T_Impostor_BaseColor_Forest_05_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.37:734][449]LogTexture: Display: Waiting for textures to be ready 71/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_Normal_Forest_05_Summer) ...
+[2024.04.07-12.45.39:280][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_Normal_Forest_05_Summer.T_Impostor_Normal_Forest_05_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.40:090][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_05_PosParent.T_EuropeanHornbeam_Forest_05_PosParent (RGBA16F, 31X29 X1X1) (Required Memory Estimate: 0.034294 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.40:090][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_05_DirLen.T_EuropeanHornbeam_Forest_05_DirLen (BGRA8, 31X29 X1X1) (Required Memory Estimate: 0.017147 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.40:090][449]LogTexture: Display: Waiting for textures to be ready 72/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_Normal_Forest_05_Winter) ...
+[2024.04.07-12.45.41:595][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_05/T_Impostor_Normal_Forest_05_Winter.T_Impostor_Normal_Forest_05_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.42:251][449]LogTexture: Display: Waiting for textures to be ready 75/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_BaseColor_Forest_04_Summer) ...
+[2024.04.07-12.45.44:120][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_BaseColor_Forest_04_Summer.T_Impostor_BaseColor_Forest_04_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.44:879][449]LogTexture: Display: Waiting for textures to be ready 76/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_BaseColor_Forest_04_Winter) ...
+[2024.04.07-12.45.46:664][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_BaseColor_Forest_04_Winter.T_Impostor_BaseColor_Forest_04_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.47:365][449]LogTexture: Display: Waiting for textures to be ready 77/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_Normal_Forest_04_Summer) ...
+[2024.04.07-12.45.48:974][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_Normal_Forest_04_Summer.T_Impostor_Normal_Forest_04_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.49:688][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_04_PosParent.T_EuropeanHornbeam_Forest_04_PosParent (RGBA16F, 155X3 X1X1) (Required Memory Estimate: 0.017738 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.49:688][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_04_DirLen.T_EuropeanHornbeam_Forest_04_DirLen (BGRA8, 155X3 X1X1) (Required Memory Estimate: 0.008869 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.49:688][449]LogTexture: Display: Waiting for textures to be ready 78/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_Normal_Forest_04_Winter) ...
+[2024.04.07-12.45.51:283][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_04/T_Impostor_Normal_Forest_04_Winter.T_Impostor_Normal_Forest_04_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.51:492][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Summer.T_Impostor_BaseColor_Forest_03_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.52:334][449]LogTexture: Display: Waiting for textures to be ready 81/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Summer) ...
+[2024.04.07-12.45.52:723][449]LogTexture: Display: Waiting for textures to be ready 82/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Winter) ...
+[2024.04.07-12.45.54:444][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_BaseColor_Forest_03_Winter.T_Impostor_BaseColor_Forest_03_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.55:224][449]LogTexture: Display: Waiting for textures to be ready 83/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Summer) ...
+[2024.04.07-12.45.56:965][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Summer.T_Impostor_Normal_Forest_03_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.57:583][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_03_PosParent.T_EuropeanHornbeam_Forest_03_PosParent (RGBA16F, 185X5 X1X1) (Required Memory Estimate: 0.035286 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.57:583][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_03_DirLen.T_EuropeanHornbeam_Forest_03_DirLen (BGRA8, 185X5 X1X1) (Required Memory Estimate: 0.017643 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.57:583][449]LogTexture: Display: Waiting for textures to be ready 84/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Winter) ...
+[2024.04.07-12.45.59:063][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_03/T_Impostor_Normal_Forest_03_Winter.T_Impostor_Normal_Forest_03_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.45.59:992][449]LogTexture: Display: Waiting for textures to be ready 87/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Albedo) ...
+[2024.04.07-12.46.00:113][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Albedo.T_EuropeanHornbeam_Trunk_01_Albedo (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.02:562][449]LogTexture: Display: Waiting for textures to be ready 88/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Mask) ...
+[2024.04.07-12.46.02:842][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Mask.T_EuropeanHornbeam_Trunk_01_Mask (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.04:254][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Normal.T_EuropeanHornbeam_Trunk_01_Normal (TFO_BC5, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.04:254][449]LogTexture: Display: Waiting for textures to be ready 89/127 (/Game/EuropeanHornbeam/Textures/Trunk/Trunk_01/T_EuropeanHornbeam_Trunk_01_Normal) ...
+[2024.04.07-12.46.05:471][449]LogTexture: Display: Waiting for textures to be ready 90/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_BaseColor_Forest_02_Summer) ...
+[2024.04.07-12.46.06:611][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_BaseColor_Forest_02_Summer.T_Impostor_BaseColor_Forest_02_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.07:559][449]LogTexture: Display: Waiting for textures to be ready 91/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_BaseColor_Forest_02_Winter) ...
+[2024.04.07-12.46.09:761][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_Normal_Forest_02_Summer.T_Impostor_Normal_Forest_02_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.09:761][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_BaseColor_Forest_02_Winter.T_Impostor_BaseColor_Forest_02_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.11:109][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_02_DirLen.T_EuropeanHornbeam_Forest_02_DirLen (BGRA8, 46X45 X1X1) (Required Memory Estimate: 0.039482 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.11:109][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_02_PosParent.T_EuropeanHornbeam_Forest_02_PosParent (RGBA16F, 46X45 X1X1) (Required Memory Estimate: 0.078964 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.11:109][449]LogTexture: Display: Waiting for textures to be ready 93/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_Normal_Forest_02_Winter) ...
+[2024.04.07-12.46.12:934][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_02/T_Impostor_Normal_Forest_02_Winter.T_Impostor_Normal_Forest_02_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.13:654][449]LogTexture: Display: Waiting for textures to be ready 96/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_BaseColor_Forest_01_Summer) ...
+[2024.04.07-12.46.15:669][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_BaseColor_Forest_01_Winter.T_Impostor_BaseColor_Forest_01_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.15:669][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_BaseColor_Forest_01_Summer.T_Impostor_BaseColor_Forest_01_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.16:713][449]LogTexture: Display: Waiting for textures to be ready 98/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_Normal_Forest_01_Summer) ...
+[2024.04.07-12.46.18:392][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_Normal_Forest_01_Summer.T_Impostor_Normal_Forest_01_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.19:055][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_01_DirLen.T_EuropeanHornbeam_Forest_01_DirLen (BGRA8, 87X9 X1X1) (Required Memory Estimate: 0.014935 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.19:055][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Forest/T_EuropeanHornbeam_Forest_01_PosParent.T_EuropeanHornbeam_Forest_01_PosParent (RGBA16F, 87X9 X1X1) (Required Memory Estimate: 0.029869 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.19:055][449]LogTexture: Display: Waiting for textures to be ready 99/127 (/Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_Normal_Forest_01_Winter) ...
+[2024.04.07-12.46.20:701][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Forest/Forest_01/T_Impostor_Normal_Forest_01_Winter.T_Impostor_Normal_Forest_01_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.21:550][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_BaseColor_Field_04_Summer.T_Impostor_BaseColor_Field_04_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.21:552][449]LogTexture: Display: Waiting for textures to be ready 102/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_BaseColor_Field_04_Summer) ...
+[2024.04.07-12.46.22:412][449]LogTexture: Display: Waiting for textures to be ready 103/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_BaseColor_Field_04_Winter) ...
+[2024.04.07-12.46.24:500][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_Normal_Field_04_Summer.T_Impostor_Normal_Field_04_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.24:500][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_BaseColor_Field_04_Winter.T_Impostor_BaseColor_Field_04_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.25:706][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_04_DirLen.T_EuropeanHornbeam_Field_04_DirLen (BGRA8, 233X5 X1X1) (Required Memory Estimate: 0.022221 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.25:706][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_04_PosParent.T_EuropeanHornbeam_Field_04_PosParent (RGBA16F, 233X5 X1X1) (Required Memory Estimate: 0.044441 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.25:706][449]LogTexture: Display: Waiting for textures to be ready 105/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_Normal_Field_04_Winter) ...
+[2024.04.07-12.46.27:435][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_04/T_Impostor_Normal_Field_04_Winter.T_Impostor_Normal_Field_04_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.28:197][449]LogTexture: Display: Waiting for textures to be ready 108/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Summer) ...
+[2024.04.07-12.46.30:583][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Winter.T_Impostor_BaseColor_Field_03_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.30:583][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_BaseColor_Field_03_Summer.T_Impostor_BaseColor_Field_03_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.31:819][449]LogTexture: Display: Waiting for textures to be ready 110/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Summer) ...
+[2024.04.07-12.46.33:935][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Summer.T_Impostor_Normal_Field_03_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.34:568][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_03_DirLen.T_EuropeanHornbeam_Field_03_DirLen (BGRA8, 50X48 X1X1) (Required Memory Estimate: 0.045776 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.34:568][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_03_PosParent.T_EuropeanHornbeam_Field_03_PosParent (RGBA16F, 50X48 X1X1) (Required Memory Estimate: 0.091553 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.34:570][449]LogTexture: Display: Waiting for textures to be ready 111/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Winter) ...
+[2024.04.07-12.46.36:676][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_03/T_Impostor_Normal_Field_03_Winter.T_Impostor_Normal_Field_03_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.37:099][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Summer.T_Impostor_BaseColor_Field_02_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.37:495][449]LogTexture: Display: Waiting for textures to be ready 114/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Summer) ...
+[2024.04.07-12.46.38:190][449]LogTexture: Display: Waiting for textures to be ready 115/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Winter) ...
+[2024.04.07-12.46.40:645][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_BaseColor_Field_02_Winter.T_Impostor_BaseColor_Field_02_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.41:398][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_02_PosParent.T_EuropeanHornbeam_Field_02_PosParent (RGBA16F, 16X227 X1X1) (Required Memory Estimate: 0.13855 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.41:398][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_02_DirLen.T_EuropeanHornbeam_Field_02_DirLen (BGRA8, 16X227 X1X1) (Required Memory Estimate: 0.069275 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.41:398][449]LogTexture: Display: Waiting for textures to be ready 116/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_Normal_Field_02_Summer) ...
+[2024.04.07-12.46.43:577][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_Normal_Field_02_Winter.T_Impostor_Normal_Field_02_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.43:788][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_02/T_Impostor_Normal_Field_02_Summer.T_Impostor_Normal_Field_02_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.44:811][449]LogTexture: Display: Waiting for textures to be ready 120/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Summer) ...
+[2024.04.07-12.46.47:358][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Summer.T_Impostor_BaseColor_Field_01_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.48:157][449]LogTexture: Display: Waiting for textures to be ready 121/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Winter) ...
+[2024.04.07-12.46.50:723][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_BaseColor_Field_01_Winter.T_Impostor_BaseColor_Field_01_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.51:486][449]LogTexture: Display: Waiting for textures to be ready 122/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Summer) ...
+[2024.04.07-12.46.53:872][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Summer.T_Impostor_Normal_Field_01_Summer (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.54:513][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_07_PP...
+[2024.04.07-12.46.54:513][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_01_DirLen.T_EuropeanHornbeam_Field_01_DirLen (BGRA8, 53X23 X1X1) (Required Memory Estimate: 0.023251 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.54:513][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/PivotPainter/Field/T_EuropeanHornbeam_Field_01_PosParent.T_EuropeanHornbeam_Field_01_PosParent (RGBA16F, 53X23 X1X1) (Required Memory Estimate: 0.046501 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.54:513][449]LogTexture: Display: Building textures: /Game/MSPresets/MS_Foliage_Material/AssetZooMaterials/T_FloorGrid.T_FloorGrid (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.54:513][449]LogTexture: Display: Waiting for textures to be ready 123/127 (/Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Winter) ...
+[2024.04.07-12.46.56:795][449]LogTexture: Display: Building textures: /Game/EuropeanHornbeam/Textures/Impostor/Field/Field_01/T_Impostor_Normal_Field_01_Winter.T_Impostor_Normal_Field_01_Winter (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 2560.000 MB), EncodeSpeed: Fast
+[2024.04.07-12.46.57:560][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_06_PP...
+[2024.04.07-12.46.57:804][449]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.004871s (157.342647s overbudget)
+[2024.04.07-12.47.01:977][449]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.04.07-12.47.01:977][449]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049964s
+[2024.04.07-12.47.10:370][449]LogStaticMesh: Built static mesh [12.80s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_06_PP.SM_EuropeanHornbeam_Forest_06_PP
+[2024.04.07-12.47.11:396][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_05_PP...
+[2024.04.07-12.47.20:433][449]LogStaticMesh: Built static mesh [25.79s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_07_PP.SM_EuropeanHornbeam_Forest_07_PP
+[2024.04.07-12.47.23:095][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_04_PP...
+[2024.04.07-12.47.28:199][449]LogStaticMesh: Built static mesh [16.75s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_05_PP.SM_EuropeanHornbeam_Forest_05_PP
+[2024.04.07-12.47.36:575][449]LogStaticMesh: Built static mesh [13.61s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_04_PP.SM_EuropeanHornbeam_Forest_04_PP
+[2024.04.07-12.47.38:417][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_03_PP...
+[2024.04.07-12.48.01:538][449]LogStaticMesh: Built static mesh [23.09s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_03_PP.SM_EuropeanHornbeam_Forest_03_PP
+[2024.04.07-12.48.04:404][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_02_PP...
+[2024.04.07-12.48.39:184][449]LogStaticMesh: Built static mesh [34.89s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_02_PP.SM_EuropeanHornbeam_Forest_02_PP
+[2024.04.07-12.48.42:874][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_01_PP...
+[2024.04.07-12.49.00:038][449]LogStaticMesh: Built static mesh [17.14s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Forest_01_PP.SM_EuropeanHornbeam_Forest_01_PP
+[2024.04.07-12.49.01:877][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_04_PP...
+[2024.04.07-12.49.39:378][449]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000016s (157.448139s overbudget)
+[2024.04.07-12.49.39:570][449]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.49.39:570][449]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.07-12.49.39:570][449]LogShaderCompilers: Display: Total job queries 1625, among them cache hits 0 (0.00%)
+[2024.04.07-12.49.39:570][449]LogShaderCompilers: Display: Tracking 1625 distinct input hashes that result in 1369 distinct outputs (84.25%)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: RAM used: 5.21 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.64%
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Shaders Compiled: 1625
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Jobs assigned 1625, completed 1625 (100.00%)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Time job spent in pending queue: average 164.78 s, longest 342.03 s
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Job execution time: average 16.49 s, max 26.18 s
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Job life time (pending + execution): average 181.27 s, max 344.76
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 345.29 s
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Jobs were issued in 177 batches (only local compilation was used), average 9.18 jobs/batch
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Average processing rate: 4.71 jobs/sec
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Effective parallelization: 6.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:                          TLightMapDensityVSTLightMapPolicyHQ (compiled    4 times, average 3.70 sec, max 3.87 sec, min 3.58 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    5 times, average 3.62 sec, max 5.00 sec, min 1.04 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:                          TLightMapDensityVSTLightMapPolicyLQ (compiled    4 times, average 3.59 sec, max 3.83 sec, min 3.26 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    5 times, average 3.38 sec, max 4.32 sec, min 1.06 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 3.34 sec, max 4.38 sec, min 0.99 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.81% of total time (compiled   48 times, average 2.31 sec, max 4.88 sec, min 0.95 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 4.79% of total time (compiled   47 times, average 2.35 sec, max 7.58 sec, min 0.96 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.73% of total time (compiled   47 times, average 2.31 sec, max 5.37 sec, min 0.99 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight - 4.66% of total time (compiled   47 times, average 2.28 sec, max 4.80 sec, min 0.87 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.64% of total time (compiled   48 times, average 2.23 sec, max 8.38 sec, min 0.87 sec)
+[2024.04.07-12.49.39:571][449]LogShaderCompilers: Display: ================================================
+[2024.04.07-12.49.39:638][449]LogStaticMesh: Display: Waiting for static meshes to be ready 23/57 (/Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_04_PP) ...
+[2024.04.07-12.49.40:311][449]LogStaticMesh: Built static mesh [38.53s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_04_PP.SM_EuropeanHornbeam_Field_04_PP
+[2024.04.07-12.49.44:171][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_03_PP...
+[2024.04.07-12.49.44:171][449]LogStaticMesh: Display: Waiting for static meshes to be ready 24/57 (/Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_03_PP) ...
+[2024.04.07-12.49.49:782][449]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.04.07-12.50.13:710][449]LogStaticMesh: Built static mesh [29.55s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_03_PP.SM_EuropeanHornbeam_Field_03_PP
+[2024.04.07-12.50.17:142][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_02_PP...
+[2024.04.07-12.50.17:142][449]LogStaticMesh: Display: Waiting for static meshes to be ready 25/57 (/Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_02_PP) ...
+[2024.04.07-12.51.08:966][449]LogStaticMesh: Built static mesh [51.67s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_02_PP.SM_EuropeanHornbeam_Field_02_PP
+[2024.04.07-12.51.14:418][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_01_PP...
+[2024.04.07-12.51.14:418][449]LogStaticMesh: Display: Waiting for static meshes to be ready 26/57 (/Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_01_PP) ...
+[2024.04.07-12.51.37:264][449]LogStaticMesh: Built static mesh [22.76s] /Game/EuropeanHornbeam/Geometry/PivotPainter/SM_EuropeanHornbeam_Field_01_PP.SM_EuropeanHornbeam_Field_01_PP
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_08...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_07...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_05...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_02...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_03...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_04...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Seedling_01...
+[2024.04.07-12.51.39:907][449]LogStaticMesh: Display: Waiting for static meshes to be ready 27/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_05) ...
+[2024.04.07-12.51.39:975][449]LogStaticMesh: Built static mesh [0.04s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_05.SM_EuropeanHornbeam_Seedling_05
+[2024.04.07-12.51.39:975][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_06...
+[2024.04.07-12.51.39:976][449]LogStaticMesh: Display: Waiting for static meshes to be ready 28/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_04) ...
+[2024.04.07-12.51.40:133][449]LogStaticMesh: Built static mesh [0.10s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_03.SM_EuropeanHornbeam_Seedling_03
+[2024.04.07-12.51.40:133][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_05...
+[2024.04.07-12.51.40:133][449]LogStaticMesh: Built static mesh [0.21s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_04.SM_EuropeanHornbeam_Seedling_04
+[2024.04.07-12.51.40:133][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_04...
+[2024.04.07-12.51.40:133][449]LogStaticMesh: Display: Waiting for static meshes to be ready 30/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_02) ...
+[2024.04.07-12.51.40:324][449]LogStaticMesh: Built static mesh [0.38s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_02.SM_EuropeanHornbeam_Seedling_02
+[2024.04.07-12.51.40:324][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_03...
+[2024.04.07-12.51.40:324][449]LogStaticMesh: Display: Waiting for static meshes to be ready 31/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_01) ...
+[2024.04.07-12.51.40:386][449]LogStaticMesh: Built static mesh [0.46s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Seedling_01.SM_EuropeanHornbeam_Seedling_01
+[2024.04.07-12.51.40:386][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_02...
+[2024.04.07-12.51.40:406][449]LogStaticMesh: Built static mesh [0.50s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_08.SM_EuropeanHornbeam_Sapling_08
+[2024.04.07-12.51.40:406][449]LogStaticMesh: Display: Waiting for static meshes to be ready 32/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_08) ...
+[2024.04.07-12.51.40:440][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Sapling_01...
+[2024.04.07-12.51.40:440][449]LogStaticMesh: Display: Waiting for static meshes to be ready 33/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_07) ...
+[2024.04.07-12.51.40:722][449]LogStaticMesh: Built static mesh [0.77s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_07.SM_EuropeanHornbeam_Sapling_07
+[2024.04.07-12.51.40:722][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_10...
+[2024.04.07-12.51.40:722][449]LogStaticMesh: Display: Waiting for static meshes to be ready 34/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_06) ...
+[2024.04.07-12.51.41:225][449]LogStaticMesh: Built static mesh [0.94s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_04.SM_EuropeanHornbeam_Sapling_04
+[2024.04.07-12.51.41:225][449]LogStaticMesh: Built static mesh [1.15s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_06.SM_EuropeanHornbeam_Sapling_06
+[2024.04.07-12.51.41:225][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_09...
+[2024.04.07-12.51.41:245][449]LogStaticMesh: Display: Waiting for static meshes to be ready 35/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_05) ...
+[2024.04.07-12.51.41:438][449]LogStaticMesh: Built static mesh [1.04s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_02.SM_EuropeanHornbeam_Sapling_02
+[2024.04.07-12.51.41:631][449]LogStaticMesh: Built static mesh [1.54s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_05.SM_EuropeanHornbeam_Sapling_05
+[2024.04.07-12.51.41:631][449]LogStaticMesh: Display: Waiting for static meshes to be ready 37/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_03) ...
+[2024.04.07-12.51.42:068][449]LogStaticMesh: Built static mesh [1.75s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_03.SM_EuropeanHornbeam_Sapling_03
+[2024.04.07-12.51.42:184][449]LogStaticMesh: Display: Waiting for static meshes to be ready 39/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_01) ...
+[2024.04.07-12.51.42:899][449]LogStaticMesh: Built static mesh [2.44s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Sapling_01.SM_EuropeanHornbeam_Sapling_01
+[2024.04.07-12.51.43:095][449]LogStaticMesh: Display: Waiting for static meshes to be ready 40/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_10) ...
+[2024.04.07-12.51.43:528][449]LogStaticMesh: Built static mesh [2.81s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_10.SM_EuropeanHornbeam_Forest_10
+[2024.04.07-12.51.43:693][449]LogStaticMesh: Display: Waiting for static meshes to be ready 41/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_09) ...
+[2024.04.07-12.51.47:706][449]LogStaticMesh: Built static mesh [6.44s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_09.SM_EuropeanHornbeam_Forest_09
+[2024.04.07-12.51.48:117][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_08...
+[2024.04.07-12.51.48:126][449]LogStaticMesh: Display: Waiting for static meshes to be ready 42/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_08) ...
+[2024.04.07-12.52.02:775][449]LogStaticMesh: Built static mesh [14.59s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_08.SM_EuropeanHornbeam_Forest_08
+[2024.04.07-12.52.04:458][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_07...
+[2024.04.07-12.52.04:539][449]LogStaticMesh: Display: Waiting for static meshes to be ready 43/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_07) ...
+[2024.04.07-12.52.20:821][449]LogStaticMesh: Built static mesh [16.36s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_07.SM_EuropeanHornbeam_Forest_07
+[2024.04.07-12.52.22:784][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_06...
+[2024.04.07-12.52.22:784][449]LogStaticMesh: Display: Waiting for static meshes to be ready 44/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_06) ...
+[2024.04.07-12.52.30:484][449]LogStaticMesh: Built static mesh [7.65s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_06.SM_EuropeanHornbeam_Forest_06
+[2024.04.07-12.52.31:147][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_05...
+[2024.04.07-12.52.31:147][449]LogStaticMesh: Display: Waiting for static meshes to be ready 45/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_05) ...
+[2024.04.07-12.52.42:847][449]LogStaticMesh: Built static mesh [11.54s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_05.SM_EuropeanHornbeam_Forest_05
+[2024.04.07-12.52.43:934][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_04...
+[2024.04.07-12.52.43:934][449]LogStaticMesh: Display: Waiting for static meshes to be ready 46/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_04) ...
+[2024.04.07-12.52.54:184][449]LogStaticMesh: Built static mesh [10.08s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_04.SM_EuropeanHornbeam_Forest_04
+[2024.04.07-12.52.55:302][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_03...
+[2024.04.07-12.52.55:302][449]LogStaticMesh: Display: Waiting for static meshes to be ready 47/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_03) ...
+[2024.04.07-12.53.13:094][449]LogStaticMesh: Built static mesh [17.63s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_03.SM_EuropeanHornbeam_Forest_03
+[2024.04.07-12.53.14:941][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_02...
+[2024.04.07-12.53.14:941][449]LogStaticMesh: Display: Waiting for static meshes to be ready 48/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_02) ...
+[2024.04.07-12.53.41:248][449]LogStaticMesh: Built static mesh [26.21s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_02.SM_EuropeanHornbeam_Forest_02
+[2024.04.07-12.53.43:714][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Forest_01...
+[2024.04.07-12.53.43:714][449]LogStaticMesh: Display: Waiting for static meshes to be ready 49/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_01) ...
+[2024.04.07-12.53.56:350][449]LogStaticMesh: Built static mesh [12.50s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Forest_01.SM_EuropeanHornbeam_Forest_01
+[2024.04.07-12.53.57:664][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_04...
+[2024.04.07-12.53.57:664][449]LogStaticMesh: Display: Waiting for static meshes to be ready 50/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_04) ...
+[2024.04.07-12.54.26:484][449]LogStaticMesh: Built static mesh [28.75s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_04.SM_EuropeanHornbeam_Field_04
+[2024.04.07-12.54.29:738][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_03...
+[2024.04.07-12.54.29:738][449]LogStaticMesh: Display: Waiting for static meshes to be ready 51/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_03) ...
+[2024.04.07-12.54.57:630][449]LogStaticMesh: Built static mesh [27.77s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_03.SM_EuropeanHornbeam_Field_03
+[2024.04.07-12.55.00:939][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_02...
+[2024.04.07-12.55.00:939][449]LogStaticMesh: Display: Waiting for static meshes to be ready 52/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_02) ...
+[2024.04.07-12.55.55:872][449]LogStaticMesh: Built static mesh [54.83s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_02.SM_EuropeanHornbeam_Field_02
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Display: Building static mesh Icon_Sock...
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Display: Building static mesh Icon_Arrow_Test...
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Display: Building static mesh Icon_Base...
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Display: Building static mesh SM_EuropeanHornbeam_Field_01...
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Built static mesh [0.02s] /Game/MSPresets/MS_Foliage_Material/GlobalFoliageActor/Geometry/Icon_Arrow_Test.Icon_Arrow_Test
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Built static mesh [0.02s] /Game/MSPresets/MS_Foliage_Material/GlobalFoliageActor/Geometry/Icon_Sock.Icon_Sock
+[2024.04.07-12.56.01:610][449]LogStaticMesh: Display: Waiting for static meshes to be ready 53/57 (/Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_01) ...
+[2024.04.07-12.56.01:733][449]LogStaticMesh: Built static mesh [0.12s] /Game/MSPresets/MS_Foliage_Material/GlobalFoliageActor/Geometry/Icon_Base.Icon_Base
+[2024.04.07-12.56.25:188][449]LogStaticMesh: Built static mesh [23.60s] /Game/EuropeanHornbeam/Geometry/SimpleWind/SM_EuropeanHornbeam_Field_01.SM_EuropeanHornbeam_Field_01
+[2024.04.07-12.56.27:991][449]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.002309s (398.414486s overbudget)
+[2024.04.07-12.57.26:260][449]LogMeshUtilities: Finished distance field build in 1.2s - 42x35x35 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 99% occupied, 19646 triangles, SM_EuropeanHornbeam_Sapling_03_PP
+[2024.04.07-12.57.26:260][449]LogMeshUtilities: Finished distance field build in 2.0s - 42x56x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 85% occupied, 38558 triangles, SM_EuropeanHornbeam_Sapling_01_PP
+[2024.04.07-12.57.26:260][449]LogMeshUtilities: Finished distance field build in 4.0s - 70x84x105 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 45% occupied, 31984 triangles, SM_EuropeanHornbeam_Forest_10_PP
+[2024.04.07-12.57.26:260][449]LogMeshUtilities: Finished distance field build in 1.0s - 42x35x35 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 99% occupied, 19646 triangles, SM_EuropeanHornbeam_Sapling_03
+[2024.04.07-12.57.26:260][449]LogMeshUtilities: Finished distance field build in 1.7s - 42x56x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 85% occupied, 38558 triangles, SM_EuropeanHornbeam_Sapling_01
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 3.7s - 70x84x105 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 45% occupied, 31984 triangles, SM_EuropeanHornbeam_Forest_10
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 14.5s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 227212 triangles, SM_EuropeanHornbeam_Forest_04_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 15.0s - 105x119x126 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 47% occupied, 223174 triangles, SM_EuropeanHornbeam_Forest_05_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.1s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 135952 triangles, SM_EuropeanHornbeam_Forest_06_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.1s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 44% occupied, 96963 triangles, SM_EuropeanHornbeam_Forest_09_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 17.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 251892 triangles, SM_EuropeanHornbeam_Forest_01_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 18.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 366646 triangles, SM_EuropeanHornbeam_Forest_03_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 20.3s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 324431 triangles, SM_EuropeanHornbeam_Forest_08_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 23.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 342585 triangles, SM_EuropeanHornbeam_Forest_07_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 22.9s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 456175 triangles, SM_EuropeanHornbeam_Forest_02_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 24.9s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 593973 triangles, SM_EuropeanHornbeam_Field_03_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 26.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 603651 triangles, SM_EuropeanHornbeam_Field_04_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 29.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 992186 triangles, SM_EuropeanHornbeam_Field_02_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.7s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 44% occupied, 96963 triangles, SM_EuropeanHornbeam_Forest_09
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 15.2s - 105x119x126 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 47% occupied, 223174 triangles, SM_EuropeanHornbeam_Forest_05
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 135952 triangles, SM_EuropeanHornbeam_Forest_06
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 14.6s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 227212 triangles, SM_EuropeanHornbeam_Forest_04
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 19.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 324431 triangles, SM_EuropeanHornbeam_Forest_08
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 32.7s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 60% occupied, 486882 triangles, SM_EuropeanHornbeam_Field_01_PP
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 366646 triangles, SM_EuropeanHornbeam_Forest_03
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 21.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 342585 triangles, SM_EuropeanHornbeam_Forest_07
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 13.9s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 251892 triangles, SM_EuropeanHornbeam_Forest_01
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 17.7s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 456175 triangles, SM_EuropeanHornbeam_Forest_02
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 16.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 603651 triangles, SM_EuropeanHornbeam_Field_04
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 14.6s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 593973 triangles, SM_EuropeanHornbeam_Field_03
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 14.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 992186 triangles, SM_EuropeanHornbeam_Field_02
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished distance field build in 11.6s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 60% occupied, 486882 triangles, SM_EuropeanHornbeam_Field_01
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 1.2s SM_EuropeanHornbeam_Forest_09_PP tris:96963
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 1.4s SM_EuropeanHornbeam_Forest_09 tris:96963
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 2.2s SM_EuropeanHornbeam_Forest_05_PP tris:223174
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 2.2s SM_EuropeanHornbeam_Forest_04_PP tris:227212
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 2.3s SM_EuropeanHornbeam_Forest_06_PP tris:135952
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 2.1s SM_EuropeanHornbeam_Forest_05 tris:223174
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 3.6s SM_EuropeanHornbeam_Forest_03_PP tris:366646
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 3.8s SM_EuropeanHornbeam_Forest_01_PP tris:251892
+[2024.04.07-12.57.26:261][449]LogMeshUtilities: Finished mesh card build in 1.9s SM_EuropeanHornbeam_Forest_06 tris:135952
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 1.8s SM_EuropeanHornbeam_Forest_04 tris:227212
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 5.6s SM_EuropeanHornbeam_Forest_07_PP tris:342585
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 6.3s SM_EuropeanHornbeam_Forest_08_PP tris:324431
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 7.9s SM_EuropeanHornbeam_Forest_02_PP tris:456175
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 3.4s SM_EuropeanHornbeam_Forest_03 tris:366646
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 9.6s SM_EuropeanHornbeam_Field_04_PP tris:603651
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 9.8s SM_EuropeanHornbeam_Field_03_PP tris:593973
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 3.8s SM_EuropeanHornbeam_Forest_01 tris:251892
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 6.6s SM_EuropeanHornbeam_Forest_08 tris:324431
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 11.7s SM_EuropeanHornbeam_Field_02_PP tris:992186
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 7.2s SM_EuropeanHornbeam_Forest_07 tris:342585
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 9.7s SM_EuropeanHornbeam_Field_01_PP tris:486882
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 7.9s SM_EuropeanHornbeam_Forest_02 tris:456175
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 7.2s SM_EuropeanHornbeam_Field_03 tris:593973
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 8.4s SM_EuropeanHornbeam_Field_04 tris:603651
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 7.4s SM_EuropeanHornbeam_Field_01 tris:486882
+[2024.04.07-12.57.26:262][449]LogMeshUtilities: Finished mesh card build in 8.3s SM_EuropeanHornbeam_Field_02 tris:992186
+[2024.04.07-12.58.10:507][449]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2024.04.07-12.58.10:519][449]LogWorld: UWorld::CleanupWorld for EuropeanHornbeam_Asset_Zoo, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-12.58.10:552][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-12.58.43:881][449]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2024.04.07-12.58.43:881][449]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 1471987712
+	 AvailableVirtual 62058496
+	     UsedPhysical 10290585600
+	 PeakUsedPhysical 11498164224
+	      UsedVirtual 50108870656
+	  PeakUsedVirtual 50655199232
+[2024.04.07-12.58.43:882][449]Allocator Stats for Mimalloc: (not implemented)
+[2024.04.07-12.58.43:885][449]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.04.07-12.58.43:887][449]LogWindows: Windows GetLastError: The operation completed successfully. (0)
